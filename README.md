@@ -191,7 +191,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For questions or suggestions, please open an issue on the GitHub repository.
+For questions or suggestions, please email ani.tubai022@gmail.com or open an issue on the GitHub repository.
+
 
 ---
 
