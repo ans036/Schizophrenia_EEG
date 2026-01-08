@@ -4,7 +4,7 @@ A novel deep learning approach to classify Schizophrenia using EEG (electroencep
 
 ## 📋 Status
 
-**Active** - Schizophrenia EEG Classification Project
+**Finished** - Schizophrenia EEG Classification Project
 
 ## 🎯 Project Overview
 
@@ -196,4 +196,4 @@ For questions or suggestions, please open an issue on the GitHub repository.
 ---
 
 **Last Updated**: 2026  
-**Status**: Active Development
+**Status**: Development Finished
